@@ -1,0 +1,14 @@
+body
+{
+text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: aqua;
+}
+#footer{
+    position:fixed;
+    color: rgb(249, 245, 249);
+    width: 100%;
+    line-height: 5;
+    bottom:0;
+    text-align: center;
+    }
